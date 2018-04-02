@@ -1,0 +1,14 @@
+<sablona>
+    <predmet>Zasedání MS Brno {Číslo schůze}</predmet>
+    <formular>
+        <pole typ="text" format="__/201_">Číslo schůze</pole>
+        <pole typ="datetime-local">Datum a čas</pole>
+        <pole typ="text">Místo konání</pole>
+        <pole typ="url">Odkaz na místo konání</pole>
+    </formular>
+    <obsah>Ahoj brněnští Piráti,
+
+Svolávám zasedání místního fóra, které proběhne [b]{Datum a čas} v [url="{Odkaz na místo konání}"]{Místo konání}[/url][/b].
+Zde můžete navrhovat body programu: https://pad.pirati.cz/p/ms_brno_{Číslo schůze:url}
+    </obsah>
+</sablona>

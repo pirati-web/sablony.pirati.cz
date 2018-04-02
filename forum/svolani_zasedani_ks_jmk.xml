@@ -1,0 +1,15 @@
+<sablona>
+    <predmet>Zasedání KS JmK {Číslo schůze}</predmet>
+    <formular>
+        <pole typ="text" format="__/201_">Číslo schůze</pole>
+        <pole typ="date">Datum</pole>
+        <pole typ="time">Čas</pole>
+        <pole typ="text">Místo konání</pole>
+        <pole typ="url">Odkaz na místo konání</pole>
+    </formular>
+    <obsah>Ahoj jihomoravští Piráti,
+
+Svolávám zasedání krajského fóra, které proběhne [b]{Datum} od {Čas} v [url="{Odkaz na místo konání}"]{Místo konání}[/url][/b].
+Zde můžete navrhovat body programu: https://pad.pirati.cz/p/ksjmk_{Číslo schůze:url}
+    </obsah>
+</sablona>
