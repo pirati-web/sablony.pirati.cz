@@ -1,0 +1,33 @@
+<sablona>
+    <predmet>[hlasování] Záměr na pořízení vesmírné lodi</predmet>
+    <anketa>
+        <otazka>O navrženém usnesení hlasuji:</otazka>
+        <moznost>PRO</moznost>
+        <moznost>PROTI</moznost>
+        <moznost>Zdržuji se</moznost>
+        <max-pocet-moznosti>1</max-pocet-moznosti>
+        <delka-trvani>2</delka-trvani>
+        <povolit-zmenu-hlasu>ano</povolit-zmenu-hlasu>
+        <zobrazit-prubezne-vysledky>ne</zobrazit-prubezne-vysledky>
+    </anketa>
+
+    <obsah>Ahoj jihomoravští Piráti,
+
+zahajuji hlasování ve věci schválení záměru pořízení pirátské vesmírné lodi, jakožto ústředního reklamního nástroje pro kontaktní kampaň v rámci předvolební kampaně.
+
+[b]Návrh usnesení:[/b]
+[teze]Krajské fórum Jihomoravského kraje 
+
+[b]s c h v a l u j e [/b]
+
+záměr pořízení pirátské vesmírné lodi v maximální hodnotě [b]bambilion Picoinů[/b] z rozpočtové položky 220600112,
+
+[b]u k l á d á[/b]
+
+předsednictvu KS JmK zajistit vypsání otevřeného výběrového řízení na dodavatele bezodkladně.[/teze]
+
+Rozprava probíhala zde: https://forum.pirati.cz/
+
+Hlasování potrvá 48 hodin a pro přijetí usnesení je třeba souhlas alespoň poloviny hlasujících. Hlasuje se jmenovitě, přípisem v tomto vlákně. Hlasovat můžete [b]PRO[/b], [b]PROTI[/b], nebo se hlasování [b]ZDRŽET[/b].
+    </obsah>
+</sablona>
