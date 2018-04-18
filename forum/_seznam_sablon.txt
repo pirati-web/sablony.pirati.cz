@@ -1,9 +1,9 @@
-#Zasedání
-Svolání zasedání KS JmK|https://sablony.pirati.cz/forum/svolani_zasedani_ks_jmk.xml
-Svolání zasedání MS Brno|https://sablony.pirati.cz/forum/svolani_zasedani_ms_brno.xml
+#ZasedÃ¡nÃ­
+SvolÃ¡nÃ­ zasedÃ¡nÃ­ KS JmK|https://sablony.pirati.cz/forum/svolani_zasedani_ks_jmk.xml
+SvolÃ¡nÃ­ zasedÃ¡nÃ­ MS Brno|https://sablony.pirati.cz/forum/svolani_zasedani_ms_brno.xml
 
 #Rozprava
-Volba pøedsednictva krajského sdruení|https://sablony.pirati.cz/forum/rozprava_-_volba_predsednictva.xml
+Volba pÅ™edsednictva krajskÃ©ho sdruÅ¾enÃ­|https://sablony.pirati.cz/forum/rozprava_-_volba_predsednictva.xml
 
-#Hlasování
-Zámìr na poøízení vìci|https://sablony.pirati.cz/forum/hlasovani_-_zamer_na_porizeni_veci.xml
+#HlasovÃ¡nÃ­
+ZÃ¡mÄ›r na poÅ™Ã­zenÃ­ vÄ›ci|https://sablony.pirati.cz/forum/hlasovani_-_zamer_na_porizeni_veci.xml
